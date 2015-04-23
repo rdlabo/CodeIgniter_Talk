@@ -18,7 +18,7 @@ Codeigniterのfacebookグループ
 ---
 
 ## ソースファイル
-## 翻訳ファイル
+### 翻訳ファイル
 * [ci_language](https://github.com/NEKOGET/ci_language])  
 system/language/english を日本語化するためのレポジトリ
   
@@ -56,12 +56,15 @@ codeigniterベースのCRUDシステム
 ---
 
 ## ブログ記事
+### 2015年4月
 * [[初心者向け] Codeigniter3をComposerを使ってインストールして動かすまで](http://rdlabo.jp/codeigniter-302.php)
 * [webアプリを AngularJS × Codeigniterでつくった話](http://sssslide.com/speakerdeck.com/areaia/webapuriwo-angularjs-x-codeigniterdetukututahua)
 * [CodeIgniterでテンプレートを使ってメールを送信する方法](http://liginc.co.jp/web/programming/155101)
 * [Web開発フレームワーク「CodeIgniter」でデバイス別テーマ切り替えを実装する方法](http://liginc.co.jp/web/programming/php/154132)
 * [CodeIgniterからMODx API (MODx Evolution)を利用する方法](http://qiita.com/tabimoba/items/4eef808f7023eba942ba)
 * [CodeIgniterで言語指定を動的に変更する方法](http://qiita.com/tabimoba/items/8b43dd906cf245526129)
+*
+### 2015年3月
 * [2015年最新PHPフレームワーク（9つ）のベンチマーク](http://blog.a-way-out.net/blog/2015/03/26/php-framework-benchmark/)
 * [CodeIgniter 3でTwigテンプレートエンジンを使用する](http://symfoware.blog68.fc2.com/blog-entry-1711.html)
 * [Codeigniterで「config.php」から値を持ってくる方法](http://exiz.org/develop/php/2015031913622/)
