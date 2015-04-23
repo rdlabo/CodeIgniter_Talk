@@ -12,7 +12,8 @@ Codeigniterのfacebookグループ
 ## ユーザガイド
 * [CodeIgniter ユーザーガイド](http://pneskin2.nekoget.com/codeigniter/3/user_guide/)  
 [@NEKOGET](https://github.com/NEKOGE)さんらが翻訳を行っている。翻訳に参加するときは、[こちら](https://github.com/NEKOGET/ci_user_guide_src)からプルリク希望。
-    
+
+---
 
 # ソースファイル
 ## 翻訳ファイル
@@ -32,6 +33,8 @@ codeigniter/angularjsベースのCRUDシステム
 * [grocery CRUD](http://www.grocerycrud.com/)
 codeigniterベースのCRUDシステム
 
+---
+
 # 勉強会
 ## FuelPHP＆CodeIgniter ユーザの集い
 * [FuelPHP＆CodeIgniter ユーザの集い #8](https://atnd.org/events/64731)
@@ -45,6 +48,8 @@ codeigniterベースのCRUDシステム
 
 ## CodeIgniter Talk
 * [CodeIgniter Talk #01](https://codeigniter-talk.doorkeeper.jp/events/4062)
+
+---
 
 # ブログ記事
 * [[初心者向け] Codeigniter3をComposerを使ってインストールして動かすまで](http://rdlabo.jp/codeigniter-302.php)
