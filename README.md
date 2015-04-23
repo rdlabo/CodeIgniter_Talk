@@ -56,6 +56,9 @@ codeigniterベースのCRUDシステム
 ---
 
 ## ブログ記事
+## ブログまとめ
+* [CodeIgniter 3のユーザーガイド(User Guide)まとめ](http://symfoware.blog68.fc2.com/blog-entry-1595.html)
+
 ### 2015年4月
 * [[初心者向け] Codeigniter3をComposerを使ってインストールして動かすまで](http://rdlabo.jp/codeigniter-302.php)
 * [webアプリを AngularJS × Codeigniterでつくった話](http://sssslide.com/speakerdeck.com/areaia/webapuriwo-angularjs-x-codeigniterdetukututahua)
