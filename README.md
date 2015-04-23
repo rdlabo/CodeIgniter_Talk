@@ -25,10 +25,12 @@ system/language/english を日本語化するためのレポジトリ
 ### ライブラリ
 #### テスト
 * [CIUnit-for-CI3](https://github.com/NEKOGET/CIUnit-for-CI3)  
-PHPUnitをCodeigniterで使うためのライブラリ  
+PHPUnitをCodeigniterで使うためのライブラリ
+
 #### Auth
 * [Tank_Auth_CI3](https://github.com/rdlabo/Tank_Auth_CI3)  
-Codeigniterライブラリ「Tank_Auth」を、Codeigniter3系用に改変  
+Codeigniterライブラリ「Tank_Auth」を、Codeigniter3系用に改変
+
 #### CRUD
 * [Ease_crud_CI3](https://github.com/rdlabo/Ease_crud_CI3)  
 codeigniter/angularjsベースのCRUDシステム
