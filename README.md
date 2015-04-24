@@ -18,6 +18,9 @@ Codeigniterのfacebookグループ
 ---
 
 ## ソースファイル
+### インストールパッケージ
+* [codeigniter-composer-installer](https://github.com/kenjis/codeigniter-composer-installer)
+  
 ### 翻訳ファイル
 * [ci_language](https://github.com/NEKOGET/ci_language])  
 system/language/english を日本語化するためのレポジトリ
