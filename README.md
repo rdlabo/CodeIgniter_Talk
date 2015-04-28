@@ -22,7 +22,7 @@ Codeigniterのfacebookグループ
 * [codeigniter-composer-installer](https://github.com/kenjis/codeigniter-composer-installer)
   
 ### 翻訳ファイル
-* [ci_language](https://github.com/NEKOGET/ci_language])  
+* [ci_language](https://github.com/NEKOGET/ci_language)  
 system/language/english を日本語化するためのレポジトリ
   
 ### ライブラリ
@@ -62,7 +62,9 @@ codeigniterベースのCRUDシステム
 ### ブログまとめ
 * [CodeIgniter 3のユーザーガイド(User Guide)まとめ](http://symfoware.blog68.fc2.com/blog-entry-1595.html)
 
-### 2015年4月
+### 2015年4月  
+* [Web開発フレームワーク「CodeIgniter」で独自の404ページを作成する方法](http://liginc.co.jp/web/programming/php/157415)
+* [将棋ウォーズ対局履歴取得ツールをCodeIgniterで作り直してみました](http://blog.ko31.com/201504/swh_codeigniter/)
 * [[初心者向け] Codeigniter3をComposerを使ってインストールして動かすまで](http://rdlabo.jp/codeigniter-302.php)
 * [webアプリを AngularJS × Codeigniterでつくった話](http://sssslide.com/speakerdeck.com/areaia/webapuriwo-angularjs-x-codeigniterdetukututahua)
 * [CodeIgniterでテンプレートを使ってメールを送信する方法](http://liginc.co.jp/web/programming/155101)
