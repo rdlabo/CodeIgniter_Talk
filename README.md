@@ -25,6 +25,10 @@ Codeigniterのfacebookグループ
 * [ci_language](https://github.com/NEKOGET/ci_language)  
 system/language/english を日本語化するためのレポジトリ
   
+### コマンドラインパッケージ  
+* [codeigniter-cli](https://github.com/kenjis/codeigniter-cli)  
+CodeigniterをCLI（コマンドライン）から操作するためのパッケージ
+  
 ### ライブラリ
 #### テスト
 * [CIUnit-for-CI3](https://github.com/NEKOGET/CIUnit-for-CI3)  
