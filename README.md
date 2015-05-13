@@ -22,8 +22,8 @@ Codeigniterのfacebookグループ
 * [codeigniter-composer-installer](https://github.com/kenjis/codeigniter-composer-installer)
   
 ### 翻訳ファイル
-* [ci_language](https://github.com/NEKOGET/ci_language)  
-system/language/english を日本語化するためのレポジトリ
+* [codeigniter3-translations](https://github.com/bcit-ci/codeigniter3-translations)  
+system/language/english を日本語化するための本家のレポジトリ
   
 ### コマンドラインパッケージ  
 * [codeigniter-cli](https://github.com/kenjis/codeigniter-cli)  
@@ -41,8 +41,13 @@ Codeigniterライブラリ「Tank_Auth」を、Codeigniter3系用に改変
 #### CRUD
 * [Ease_crud_CI3](https://github.com/rdlabo/Ease_crud_CI3)  
 codeigniter/angularjsベースのCRUDシステム
-* [grocery CRUD](http://www.grocerycrud.com/)
+* [grocery CRUD](http://www.grocerycrud.com/)  
 codeigniterベースのCRUDシステム
+
+## IDE
+### NetBeans 8.0プラグイン
+* [nbphpcouncil版](https://github.com/nbphpcouncil/nb-ci-plugin/releases)
+* [本家版](https://github.com/bcit-ci/netbeans-plugin/releases)（開発中）
 
 ---
 
