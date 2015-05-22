@@ -88,6 +88,7 @@ codeigniterベースのCRUDシステム
 * [Web開発フレームワーク「CodeIgniter」でデバイス別テーマ切り替えを実装する方法](http://liginc.co.jp/web/programming/php/154132)
 * [CodeIgniterからMODx API (MODx Evolution)を利用する方法](http://qiita.com/tabimoba/items/4eef808f7023eba942ba)
 * [CodeIgniterで言語指定を動的に変更する方法](http://qiita.com/tabimoba/items/8b43dd906cf245526129)
+* [Web開発フレームワーク「CodeIgniter」で独自の404ページを作成する方法](http://liginc.co.jp/web/programming/php/157415)
 
 ### 2015年3月
 * [2015年最新PHPフレームワーク（9つ）のベンチマーク](http://blog.a-way-out.net/blog/2015/03/26/php-framework-benchmark/)
