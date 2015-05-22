@@ -33,7 +33,7 @@ CodeigniterをCLI（コマンドライン）から操作するためのパッケ
 #### テスト
 * [CIUnit-for-CI3](https://github.com/NEKOGET/CIUnit-for-CI3)  
 PHPUnitをCodeigniterで使うためのライブラリ  
-* [CI PHPUnit Test](https://github.com/kenjis/ci-phpunit-test)
+* [CI PHPUnit Test](https://github.com/kenjis/ci-phpunit-test)  
 PHPUnitをCodeigniterで使うためのライブラリ。CodeIgniter本体には手を入れない。
 
 #### Auth
