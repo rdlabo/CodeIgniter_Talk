@@ -32,7 +32,9 @@ CodeigniterをCLI（コマンドライン）から操作するためのパッケ
 ### ライブラリ
 #### テスト
 * [CIUnit-for-CI3](https://github.com/NEKOGET/CIUnit-for-CI3)  
-PHPUnitをCodeigniterで使うためのライブラリ
+PHPUnitをCodeigniterで使うためのライブラリ  
+* [CI PHPUnit Test](https://github.com/kenjis/ci-phpunit-test)
+PHPUnitをCodeigniterで使うためのライブラリ。CodeIgniter本体には手を入れない。
 
 #### Auth
 * [Tank_Auth_CI3](https://github.com/rdlabo/Tank_Auth_CI3)  
@@ -70,6 +72,12 @@ codeigniterベースのCRUDシステム
 ## ブログ記事
 ### ブログまとめ
 * [CodeIgniter 3のユーザーガイド(User Guide)まとめ](http://symfoware.blog68.fc2.com/blog-entry-1595.html)
+
+### 2015年5月  
+* [Codeigniter3系を使ってPDFファイルをつくる方法[ZendPDF]](http://rdlabo.jp/codeigniter-307.php)
+* [CodeIgniter 3.0でPHPUnitを使う](http://blog.a-way-out.net/blog/2015/05/19/ci-phpunit-test/)
+* [CodeIgniter 3.0のアプリをコードレビューしてください](http://blog.a-way-out.net/blog/2015/05/13/codeigniter-tettei-apps/)
+* [Web開発フレームワーク「CodeIgniter」でバッチ作成をする方法](http://liginc.co.jp/web/programming/php/155797/2)
 
 ### 2015年4月  
 * [Web開発フレームワーク「CodeIgniter」で独自の404ページを作成する方法](http://liginc.co.jp/web/programming/php/157415)
