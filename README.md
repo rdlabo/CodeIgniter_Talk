@@ -73,11 +73,18 @@ codeigniterベースのCRUDシステム
 ### ブログまとめ
 * [CodeIgniter 3のユーザーガイド(User Guide)まとめ](http://symfoware.blog68.fc2.com/blog-entry-1595.html)
 
+### 2015年6月  
+* [CodeIgniterが食っていたメモリ](http://qiita.com/jkr_2255/items/9641184899d75c83b4ea)
+* [CodeIgniter 3 出てるってよ](http://rochefort.hatenablog.com/entry/2015/06/06/145202)
+* [『CodeIgniter徹底入門』のサンプルコードにXSS脆弱性が見つかった話](http://blog.a-way-out.net/blog/2015/06/23/codeigniter-tetti-xss/)
+  
 ### 2015年5月  
 * [Codeigniter3系を使ってPDFファイルをつくる方法[ZendPDF]](http://rdlabo.jp/codeigniter-307.php)
 * [CodeIgniter 3.0でPHPUnitを使う](http://blog.a-way-out.net/blog/2015/05/19/ci-phpunit-test/)
 * [CodeIgniter 3.0のアプリをコードレビューしてください](http://blog.a-way-out.net/blog/2015/05/13/codeigniter-tettei-apps/)
 * [Web開発フレームワーク「CodeIgniter」でバッチ作成をする方法](http://liginc.co.jp/web/programming/php/155797/2)
+* [CodeIgniter 3.0でTwigを使う](http://blog.a-way-out.net/blog/2015/05/25/codeigniter-twig/)
+* [Codeigniterで独自のバリデーションを作成する方法](http://liginc.co.jp/web/programming/php/157156)
 
 ### 2015年4月  
 * [Web開発フレームワーク「CodeIgniter」で独自の404ページを作成する方法](http://liginc.co.jp/web/programming/php/157415)
