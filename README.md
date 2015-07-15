@@ -20,6 +20,7 @@ Codeigniterのfacebookグループ
 ## ソースファイル
 ### インストールパッケージ
 * [codeigniter-composer-installer](https://github.com/kenjis/codeigniter-composer-installer)
+* [codeigniter-composer-installerの日本語解説](http://blog.a-way-out.net/blog/2015/04/24/codeigniter-composer-installer/)
   
 ### 翻訳ファイル
 * [codeigniter3-translations](https://github.com/bcit-ci/codeigniter3-translations)  
@@ -28,6 +29,10 @@ system/language/english を日本語化するための本家のレポジトリ
 ### コマンドラインパッケージ  
 * [codeigniter-cli](https://github.com/kenjis/codeigniter-cli)  
 CodeigniterをCLI（コマンドライン）から操作するためのパッケージ
+　
+### ファイル名の大文字小文字規則が間違っていないか確認するチェッカー
+* [CodeIgniter3 Filename Checker](https://github.com/kenjis/codeigniter3-filename-checker)
+* [CodeIgniter3 Filename Checkerの日本語解説](http://blog.a-way-out.net/blog/2015/07/08/codeigniter3-filename-checker/)
   
 ### ライブラリ
 #### テスト
@@ -72,11 +77,29 @@ codeigniterベースのCRUDシステム
 ## ブログ記事
 ### ブログまとめ
 * [CodeIgniter 3のユーザーガイド(User Guide)まとめ](http://symfoware.blog68.fc2.com/blog-entry-1595.html)
-
+　
+### 2015年7月
+* [CodeIgniterのファイル名をチェックするCodeIgniter3 Filename Checker](http://blog.a-way-out.net/blog/2015/07/08/codeigniter3-filename-checker/)
+* [何故CodeIgniterでは静的メソッドを使えないのか？](http://blog.a-way-out.net/blog/2015/07/06/why-codeigniter-does-not-support-static-method/)
+* [あなたのお気に入りのフレームワークCodeIgniterが帰ってきた！](http://www.slideshare.net/NEKOGET/phpcon-fukuoka-2015-codeigniter-update?ref=http://blog.a-way-out.net/blog/2015/07/09/codeigniter3-sense-of-use/)
+* [あなたのお気に入りのフレームワークCodeIgniterが帰ってきた！（CodeIgniter 3.0の感想）](http://blog.a-way-out.net/blog/2015/07/09/codeigniter3-sense-of-use/)
+* [codeigniterにおけるvirtualhostの設定について](http://www.phppro.jp/qa/4572)
+* [CodeIgniter + PHPExcel 備忘録](http://qiita.com/ganessa/items/66006ea0dc97b921d1ec)
+* [CodeIgniterの初期設定メモ](http://development.hateblo.jp/entry/2015/07/05/002802)
+* [Codeigniterでmp4ファイルがアップロードできない件](http://nvtrlab.jp/blog/bunbunmaru/codeigniter%E3%81%A7mp4%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%8C%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E4%BB%B6.html)
+　
 ### 2015年6月  
 * [CodeIgniterが食っていたメモリ](http://qiita.com/jkr_2255/items/9641184899d75c83b4ea)
 * [CodeIgniter 3 出てるってよ](http://rochefort.hatenablog.com/entry/2015/06/06/145202)
 * [『CodeIgniter徹底入門』のサンプルコードにXSS脆弱性が見つかった話](http://blog.a-way-out.net/blog/2015/06/23/codeigniter-tetti-xss/)
+* [CodeIgniter 3.0のアプリをコードレビューしてください](http://blog.a-way-out.net/blog/2015/05/13/codeigniter-tettei-apps/)
+* [CodeIgniter 3.0でマイグレーションをCLIから操作するCli for CodeIgniter](http://blog.a-way-out.net/blog/2015/05/13/codeigniter-tettei-apps/)
+* [CodeIgniter 3.0でPHPUnitを使う](http://blog.a-way-out.net/blog/2015/05/19/ci-phpunit-test/)
+* [CodeIgniter 3.0でTwigを使う](http://blog.a-way-out.net/blog/2015/05/25/codeigniter-twig/)
+* [CodeIgniter 3.0で認証ライブラリIon Authを使う](http://blog.a-way-out.net/blog/2015/06/08/codeigniter-ion-auth/)
+* [CodeIgniter 3.0をコマンド一発でデプロイするCodeIgniter Deployer](http://blog.a-way-out.net/blog/2015/06/04/codeigniter-deployer/)
+* [『CodeIgniter徹底入門』のサンプルコードにXSS脆弱性が見つかった話](http://blog.a-way-out.net/blog/2015/06/23/codeigniter-tetti-xss/)
+* 
   
 ### 2015年5月  
 * [Codeigniter3系を使ってPDFファイルをつくる方法[ZendPDF]](http://rdlabo.jp/codeigniter-307.php)
