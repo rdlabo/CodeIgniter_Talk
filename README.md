@@ -10,6 +10,8 @@ Codeigniter3系リリース・ライセンス変更（MITライセンスに）�
 ### コミュニティ
 * [CodeIgniter Talk](https://www.facebook.com/groups/654414737905980/)  
 Codeigniterのfacebookグループ
+* [codeigniter_jp - Google グループ](https://groups.google.com/forum/#!forum/codeigniter_jp)  
+日本CodeIgniterユーザ会のメーリングリスト
 
 ### ユーザガイド
 * [CodeIgniter ユーザーガイド](http://pneskin2.nekoget.com/codeigniter/3/user_guide/)  
