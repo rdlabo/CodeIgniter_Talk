@@ -93,7 +93,6 @@ codeigniterベースのCRUDシステム
 ### 2015年6月  
 * [CodeIgniterが食っていたメモリ](http://qiita.com/jkr_2255/items/9641184899d75c83b4ea)
 * [CodeIgniter 3 出てるってよ](http://rochefort.hatenablog.com/entry/2015/06/06/145202)
-* [『CodeIgniter徹底入門』のサンプルコードにXSS脆弱性が見つかった話](http://blog.a-way-out.net/blog/2015/06/23/codeigniter-tetti-xss/)
 * [CodeIgniter 3.0のアプリをコードレビューしてください](http://blog.a-way-out.net/blog/2015/05/13/codeigniter-tettei-apps/)
 * [CodeIgniter 3.0でマイグレーションをCLIから操作するCli for CodeIgniter](http://blog.a-way-out.net/blog/2015/05/13/codeigniter-tettei-apps/)
 * [CodeIgniter 3.0でPHPUnitを使う](http://blog.a-way-out.net/blog/2015/05/19/ci-phpunit-test/)
