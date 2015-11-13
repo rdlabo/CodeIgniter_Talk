@@ -63,6 +63,7 @@ codeigniterベースのCRUDシステム
 
 ## 勉強会
 ### FuelPHP＆CodeIgniter ユーザの集い
+* [FuelPHP＆CodeIgniter ユーザの集い #9](https://atnd.org/events/70728)
 * [FuelPHP＆CodeIgniter ユーザの集い #8](https://atnd.org/events/64731)
 * [FuelPHP＆CodeIgniter ユーザの集い #7](https://atnd.org/events/60787)
 * [FuelPHP＆CodeIgniter ユーザの集い #6](https://atnd.org/events/55418)
@@ -81,12 +82,29 @@ codeigniterベースのCRUDシステム
 ### ブログまとめ
 * [CodeIgniter 3のユーザーガイド(User Guide)まとめ](http://symfoware.blog68.fc2.com/blog-entry-1595.html)
 
+### 2015年11月
+* [[CakePHP,Laravel,Codeigniter]PHPフレームワークの立ち位置を考えてみた](http://rdlabo.jp/php-338.php)
+* [PhpStormで256倍楽しくコードを書く方法(CodeIgniterの場合)](http://www.ah-2.com/2015/11/02/phpstorm_with_codeigniter_livetemplate.html)
+* [CodeIgniter 2.x系の保守が終了しました](http://blog.a-way-out.net/blog/2015/11/02/codeigniter-2-eol/)
+
+### 2015年10月
+* [Codeigniter 3. Authなパッケージを使う](http://qiita.com/taz-jpn/items/fb00f79e02ca1172e42a)
+* [[初心者向け]Codeigniter導入時にやっておいたら便利なtips5つ](http://rdlabo.jp/codeigniter-332.php)
+* [[Codeigniter] languageファイルをjsで使い回す方法](http://rdlabo.jp/codeigniter-331.php)
+* [CodeIgniter初心者の方に知って欲しいCodeIgniterでのMVCについて](http://blog.a-way-out.net/blog/2015/10/21/codeigniter-mvc/)
+* [WebアプリケーションフレームワークFuelPHPとCodeIgniter使いのエンジニア必見！勉強会レポ](https://geechs-magazine.com/tag/event/20151029)
+* [Codeigniterで複数アプリケーション - 日報 #154](http://tom-rc.hatenablog.com/entry/2015/10/06/193648)
+* [CodeIgniter3 ＋ 認証系ライブラリ「Cartalyst Sentry」で、MySQLのテーブル名にプレフィクスをつけたい](http://qiita.com/kijtra/items/c15ee9be6d44751a167c)
+
 ### 2015年9月
 * [【PHP】CodeIgniter でマイグレーション【CodeIgniter】](http://qiita.com/taji-taji/items/9fe1ced8ccd1ef7648ef)
 * [CodeIgniterをMAMPで使えるようにする](http://qiita.com/H-A-L/items/5377f9e3477566604b15)
 * [【PHP】CodeIgniterのActiveRecordクラス「get_where」で取得した値の取り出し方](http://yadukkii.hateblo.jp/entry/2015/10/01/000949)
 * [【CodeIgniter】Digest（ダイジェスト）認証ライブラリ](http://a-zumi.net/codeigniter-digest-auth-library/)
 * [CodeIgniterでちょっと作ってみるメモ](http://backyard.hatenablog.com/entry/20150922/1442888108)
+* [【mysql】CodeIgniterのDB設定の罠【Sleep】](http://ryokwkm2.hatenadiary.jp/entry/2015/09/28/161925)
+* [codeigniter　smtp送信について](https://teratail.com/questions/15989)
+* [【PHP】CodeIgniterのActiveRecordクラス「get_where」で取得した値の取り出し方](http://yadukkii.hateblo.jp/entry/2015/10/01/000949)
 
 ### 2015年8月
 * [イマドキのCodeIgniterでPHPUnit入門（Composer不使用編）](http://qiita.com/kenjis/items/db3d1db35c9d9af305af)
